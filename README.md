@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Pullarao Chinthapanti 👋</h1>
+<h1 align="center">Hi, I'm Pullarao Chinthapanti </h1>
 
 <p align="center">
   <b>Cloud Operations Engineer → Cloud Architect</b><br>
@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 - 🔭 Cloud Operations Engineer with **4+ years** of experience across AWS, GCP, and Linux infrastructure
 - 🏦 Previously supported **Bank of Montreal (BMO)** banking infrastructure — production-grade, banking SLAs
