@@ -7,7 +7,7 @@ Hyderabad, India · [Website](https://pullaraochinthapanti.netlify.app) · [Link
 
 ## About
 
-Cloud Operations Engineer with 6+ years of experience across AWS, GCP, and Linux infrastructure.
+Cloud Operations Engineer with 4+ years of experience across AWS, GCP, and Linux infrastructure.
 Previously supported Bank of Montreal (BMO) banking infrastructure at production scale under strict SLAs.
 Specialist in IAM zero-trust design, patch management, and cloud security.
 
